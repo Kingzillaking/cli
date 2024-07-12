@@ -81,3 +81,4 @@ func TestWrite(t *testing.T) {
 		})
 	}
 }
+run
